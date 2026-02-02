@@ -38,7 +38,14 @@ I enjoy building clean, responsive, and user‑friendly interfaces, and I’m al
 
 ---
 
-## 📊 GitHub Stats <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FirassRachid&show_icons=true&theme=tokyonight" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirassRachid&layout=compact&theme=tokyonight" height="160" /> </div>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=FirassRachid&show_icons=true&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirassRachid&layout=compact&theme=tokyonight" height="160" />
+
+</div>
 
 ---
 
