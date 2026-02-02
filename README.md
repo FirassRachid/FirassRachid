@@ -39,5 +39,8 @@ I enjoy building clean, responsive, and user‑friendly interfaces, and I’m al
 
 ---
 
-## 📞 Let's Get Connected
-**WhatsApp:** +9630937898507
+## 📞 Let's Get Connected 
+- **WhatsApp:**
+- [Click here to contact me on WhatsApp](https://wa.me/9630937898507)
+- - **Email:**
+  - [firassrachid2000@gmail.com](mailto:firassrachid2000@gmail.com)
