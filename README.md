@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Firass Rachid**
-<h1>Web Developer**</h1>
+<h1>Web Developer</h1>
 <div align="center"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </div>
 
 ## 💼 Profession
