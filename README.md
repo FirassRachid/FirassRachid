@@ -8,14 +8,16 @@
 Graduate of **Latakia University – Syria**
 
 ## 🌐 Languages
-- Fluent in **English**
+- Fluent in **Arabic**
+- Good in **English**
 
-## 🤝 Soft Skills
-- Strong communication skills  
-- Teamwork oriented  
-- Passionate about continuous learning and improving my programming abilities  
+## 💻 Soft Skills
+-🚀 Strong communication skills  
+-🤝 Teamwork oriented  
+-🏆 Passionate about continuous learning 
+- 🎯 Always ready to improve my programming abilities
 
-## 🚀 About Me
+## 👨🏻‍💻 About Me
 I am a motivated Frontend Developer looking to grow my skills in the programming field and secure a suitable job opportunity.  
 I enjoy building clean, responsive, and user‑friendly interfaces, and I’m always working to stay updated with modern web technologies.
 
