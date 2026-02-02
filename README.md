@@ -20,17 +20,37 @@ I enjoy building clean, responsive, and user‑friendly interfaces, and I’m al
 
 ---
 
-## 🛠️ Technologies and Tools I Use (Animated)
+## 🛠️ Technologies and Tools I Use
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="70" height="70"/> <!-- HTML -->
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70" height="70"/> <!-- CSS -->
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="70" height="70"/> <!-- JS -->
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="70" height="70"/> <!-- React -->
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" height="70"/> <!-- GitHub -->
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60"/><br>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60"/><br>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/><br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/><br>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60"/><br>
+      <sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
