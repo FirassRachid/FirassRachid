@@ -12,9 +12,9 @@ Graduate of **Latakia University – Syria**
 - Good in **English**
 
 ## 💻 Soft Skills
--🚀 Strong communication skills  
--🤝 Teamwork oriented  
--🏆 Passionate about continuous learning 
+- 🚀 Strong communication skills  
+- 🤝 Teamwork oriented  
+- 🏆 Passionate about continuous learning 
 - 🎯 Always ready to improve my programming abilities
 
 ## 👨🏻‍💻 About Me
