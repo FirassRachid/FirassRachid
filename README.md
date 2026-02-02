@@ -31,8 +31,8 @@ I enjoy building clean, responsive, and user‑friendly interfaces, and I’m al
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70" height="70"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70" height="70"/>
 </div>
 
 
